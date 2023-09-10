@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "TinaKitten",
+	"description": "Art made by Tina Kitten and her chat to represent her\n\nTinaKitten is a streamer on twitch who streams games and just chats",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/tinakitten"
+		]
+	},
+	"path": {
+		"226-256": [
+			[
+				12,
+				946
+			],
+			[
+				12,
+				946
+			],
+			[
+				11,
+				946
+			],
+			[
+				-13,
+				933
+			],
+			[
+				-13,
+				970
+			],
+			[
+				55,
+				970
+			],
+			[
+				55,
+				933
+			],
+			[
+				-13,
+				933
+			]
+		]
+	},
+	"center": {
+		"226-256": [
+			29,
+			951
+		]
+	}
+}
